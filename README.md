@@ -6,4 +6,3 @@
 
 
 
-theme: jekyll-theme-minimal
