@@ -1,4 +1,9 @@
 # master-EP-1
 
 
-Hello it's a main repo 
+
+Всем доброго времени суток, это основной сайт и репозиторий.
+
+
+
+theme: jekyll-theme-minimal.
