@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2e8b57&lines=Hello+everyone+I'm TIm)](https://git.io/typing-svg)
-### A computer science student,ML engineer from Russia 🇷🇺 and this is the main repo of my EP-1 so welcovme
+### A computer science student,ML engineer from Russia 🇷🇺 and this is the main repo of my EP-1 so welcome
 ### ><
 
 
